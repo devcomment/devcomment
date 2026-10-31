@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <title>Stella Desk</title>
+  <desc>Stella Desk four-point glass star, adapted for a circular profile picture.</desc>
+  <defs>
+    <linearGradient id="tile" x1="154" y1="78" x2="886" y2="972" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#444F7F"/><stop offset=".46" stop-color="#202A4B"/><stop offset="1" stop-color="#122B35"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="180" y1="60" x2="888" y2="976" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5EAFF" stop-opacity=".76"/><stop offset=".42" stop-color="#B5C2F0" stop-opacity=".14"/><stop offset="1" stop-color="#9CE8D7" stop-opacity=".36"/>
+    </linearGradient>
+    <linearGradient id="star" x1="288" y1="282" x2="712" y2="758" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9F7FF"/><stop offset=".42" stop-color="#D4D2FF"/><stop offset=".7" stop-color="#C9E8F1"/><stop offset="1" stop-color="#94E6CE"/>
+    </linearGradient>
+    <linearGradient id="facet" x1="314" y1="430" x2="582" y2="684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9187E1"/><stop offset="1" stop-color="#89C3D7"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="286" y1="148" x2="514" y2="594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6E8FF" stop-opacity=".14"/><stop offset="1" stop-color="#E6E8FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="aura"><stop stop-color="#AEC1FF" stop-opacity=".25"/><stop offset="1" stop-color="#AEC1FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="mint"><stop stop-color="#98E5CE" stop-opacity=".16"/><stop offset="1" stop-color="#98E5CE" stop-opacity="0"/></radialGradient>
+    <clipPath id="tileClip"><rect x="0" y="0" width="1024" height="1024"/></clipPath>
+    <filter id="shadow" x="120" y="150" width="784" height="774" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#050D27" flood-opacity=".36"/></filter>
+  </defs>
+  <rect x="0" y="0" width="1024" height="1024" fill="url(#tile)"/>
+  <g clip-path="url(#tileClip)">
+    <ellipse cx="327" cy="307" rx="560" ry="490" fill="url(#aura)"/>
+    <ellipse cx="864" cy="861" rx="460" ry="430" fill="url(#mint)"/>
+    <path d="M0 0H1024V254C729 214 507 611 0 534V0Z" fill="url(#shine)"/>
+    <path d="M83 547C441 602 731 227 967 281" stroke="#CED7FF" stroke-opacity=".07" stroke-width="2"/>
+  </g>
+  <circle cx="512" cy="512" r="502" stroke="url(#rim)" stroke-width="3"/>
+  <g filter="url(#shadow)">
+    <path d="M512 208C550 407 617 474 816 512C617 550 550 617 512 816C474 617 407 550 208 512C407 474 474 407 512 208Z" fill="url(#star)"/>
+    <path d="M512 208C474 407 407 474 208 512L512 512V208Z" fill="#F9FAFF" fill-opacity=".42"/>
+    <path d="M208 512C407 550 474 617 512 816V512H208Z" fill="url(#facet)" fill-opacity=".7"/>
+    <path d="M512 512V816C550 617 617 550 816 512H512Z" fill="#A7E8D8" fill-opacity=".27"/>
+    <path d="M512 208C550 407 617 474 816 512" stroke="#FFFFFF" stroke-opacity=".72" stroke-width="5" stroke-linecap="round"/>
+    <path d="M512 512L512 786" stroke="#DEFFF4" stroke-opacity=".35" stroke-width="3"/>
+  </g>
+</svg>

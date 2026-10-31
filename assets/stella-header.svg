@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+<title id="title">Stella Desk · by devcomment</title><desc id="desc">라벤더와 민트빛 유리 별 로고. 메리와 히요리의 방송, 한곳에서.</desc>
+<defs>
+<linearGradient id="header-bg" x2="1" y2="1"><stop stop-color="#121723"/><stop offset=".55" stop-color="#0e1118"/><stop offset="1" stop-color="#142329"/></linearGradient>
+<radialGradient id="header-halo"><stop stop-color="#939fda" stop-opacity=".16"/><stop offset="1" stop-color="#939fda" stop-opacity="0"/></radialGradient>
+<linearGradient id="header-line"><stop stop-color="#bdb5ec" stop-opacity="0"/><stop offset=".5" stop-color="#c2c8f2" stop-opacity=".45"/><stop offset="1" stop-color="#94e6ce" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1438" height="478" rx="24" fill="url(#header-bg)" stroke="#303644"/>
+<ellipse cx="1015" cy="166" rx="515" ry="480" fill="url(#header-halo)"/>
+<path d="M780 433C873 346 1022 226 1403 223M763 454C935 329 1113 304 1438 315" stroke="url(#header-line)" fill="none"/>
+<g font-family="'Segoe UI',sans-serif">
+<text x="66" y="80" font-family="monospace" font-size="17" letter-spacing="3.2" fill="#a8b0c7">CURRENT PROJECT / WINDOWS DESKTOP</text>
+<text x="60" y="237" font-size="116" font-weight="600" letter-spacing="-5" fill="#f4f4fa">Stella Desk<tspan fill="#b4dcd9">.</tspan></text>
+<text x="66" y="295" font-family="'Malgun Gothic',sans-serif" font-size="26" fill="#c2c7d7">메리와 히요리의 방송, 한곳에서.</text>
+<text x="66" y="401" font-family="monospace" font-size="19" letter-spacing="1.7" fill="#a9b2ca">by devcomment</text>
+<circle cx="301" cy="394" r="4" fill="#94d9c7"/>
+<text x="319" y="401" font-family="monospace" font-size="17" letter-spacing="1.5" fill="#a9b2ca">LIVE · CHAT · LOUNGE</text>
+</g>
+<svg x="962" y="40" width="400" height="400" viewBox="0 0 1024 1024" fill="none">
+  <title>Stella Desk</title>
+  <desc>A lavender and mint four-point glass star on a midnight rounded tile.</desc>
+  <defs>
+    <linearGradient id="tile" x1="154" y1="78" x2="886" y2="972" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#444F7F"/><stop offset=".46" stop-color="#202A4B"/><stop offset="1" stop-color="#122B35"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="180" y1="60" x2="888" y2="976" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5EAFF" stop-opacity=".76"/><stop offset=".42" stop-color="#B5C2F0" stop-opacity=".14"/><stop offset="1" stop-color="#9CE8D7" stop-opacity=".36"/>
+    </linearGradient>
+    <linearGradient id="star" x1="288" y1="282" x2="712" y2="758" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9F7FF"/><stop offset=".42" stop-color="#D4D2FF"/><stop offset=".7" stop-color="#C9E8F1"/><stop offset="1" stop-color="#94E6CE"/>
+    </linearGradient>
+    <linearGradient id="facet" x1="314" y1="430" x2="582" y2="684" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9187E1"/><stop offset="1" stop-color="#89C3D7"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="286" y1="148" x2="514" y2="594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6E8FF" stop-opacity=".14"/><stop offset="1" stop-color="#E6E8FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="aura"><stop stop-color="#AEC1FF" stop-opacity=".25"/><stop offset="1" stop-color="#AEC1FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="mint"><stop stop-color="#98E5CE" stop-opacity=".16"/><stop offset="1" stop-color="#98E5CE" stop-opacity="0"/></radialGradient>
+    <clipPath id="tileClip"><rect x="40" y="40" width="944" height="944" rx="224"/></clipPath>
+    <filter id="shadow" x="120" y="150" width="784" height="774" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#050D27" flood-opacity=".36"/></filter>
+  </defs>
+  <rect x="40" y="40" width="944" height="944" rx="224" fill="url(#tile)"/>
+  <g clip-path="url(#tileClip)">
+    <ellipse cx="327" cy="307" rx="560" ry="490" fill="url(#aura)"/>
+    <ellipse cx="864" cy="861" rx="460" ry="430" fill="url(#mint)"/>
+    <path d="M40 40H984V254C729 214 507 611 40 534V40Z" fill="url(#shine)"/>
+    <path d="M83 547C441 602 731 227 967 281" stroke="#CED7FF" stroke-opacity=".07" stroke-width="2"/>
+  </g>
+  <rect x="43" y="43" width="938" height="938" rx="221" stroke="url(#rim)" stroke-width="6"/>
+  <g filter="url(#shadow)">
+    <path d="M512 208C550 407 617 474 816 512C617 550 550 617 512 816C474 617 407 550 208 512C407 474 474 407 512 208Z" fill="url(#star)"/>
+    <path d="M512 208C474 407 407 474 208 512L512 512V208Z" fill="#F9FAFF" fill-opacity=".42"/>
+    <path d="M208 512C407 550 474 617 512 816V512H208Z" fill="url(#facet)" fill-opacity=".7"/>
+    <path d="M512 512V816C550 617 617 550 816 512H512Z" fill="#A7E8D8" fill-opacity=".27"/>
+    <path d="M512 208C550 407 617 474 816 512" stroke="#FFFFFF" stroke-opacity=".72" stroke-width="5" stroke-linecap="round"/>
+    <path d="M512 512L512 786" stroke="#DEFFF4" stroke-opacity=".35" stroke-width="3"/>
+  </g>
+</svg>
+
+</svg>

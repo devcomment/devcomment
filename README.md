@@ -1,30 +1,49 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Dear. me · @devcomment — 라벤더빛 종이 질감과 작은 별·달 장식" width="100%" />
+  <img src="./assets/stella-header.svg" alt="Stella Desk · by devcomment — 메리와 히요리의 방송, 한곳에서." width="100%" />
   <br /><br />
-  <samp>✦ &nbsp; a little space of my own &nbsp; ✦</samp>
+  <samp>building a little home for live moments</samp>
   <br /><br />
-  작은 취향을 모아, 좋아하는 것을 만듭니다.
-  <br /><br />
-  <img src="./assets/stars.svg" alt="" width="460" />
 </div>
 
-<br />
+### ✦ &nbsp; Stella Desk
 
-### ✦ &nbsp; selected works
+방송과 채팅, 클립·다시보기, 소식을 한곳에 모으는 **Windows 데스크톱 앱**을 만들고 있습니다.
 
-<p align="center">
-  <a href="https://github.com/devcomment/stella-desk-releases"><img src="./assets/stella-desk.svg" alt="Stella Desk — 방송·채팅·소식을 모아 보는 Windows 비공식 뷰어. 저장소 보기" width="400" /></a>
-  <a href="https://github.com/devcomment/expense-tracker-api"><img src="./assets/expense-tracker.svg" alt="Expense Tracker API — Java와 Spring Boot로 만든 수입·지출 기록 API. 저장소 보기" width="400" /></a>
+토키노 메리와 하나요 히요리를 위한 비공식 뷰어입니다.
+
+<p>
+  <a href="https://github.com/devcomment/stella-desk-releases">프로젝트 보기 ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/devcomment/stella-desk-releases/releases/latest">최신 버전 다운로드 ↗</a>
 </p>
 
 <br />
 
+### ✦ &nbsp; Stack
+
+<p>
+  <img src="./assets/stack-electron.svg" alt="Electron" width="132" />
+  <img src="./assets/stack-javascript.svg" alt="JavaScript" width="132" />
+  <img src="./assets/stack-node.svg" alt="Node.js" width="132" />
+  <img src="./assets/stack-html.svg" alt="HTML5" width="132" />
+  <img src="./assets/stack-css.svg" alt="CSS3" width="132" />
+</p>
+
+| 영역 | 사용 기술 |
+| :--- | :--- |
+| 데스크톱 앱 | Electron · Node.js |
+| 화면과 인터랙션 | JavaScript · HTML · CSS |
+| 빌드·배포·업데이트 | electron-builder · esbuild · electron-updater |
+| 라이브러리 | Cheerio · LiquidGlass (Beta) |
+
+<br />
+
 <div align="center">
-  <samp>say hello</samp>
+  <samp>devcomment · Stella Desk</samp>
   <br /><br />
-  <a href="mailto:beugeumj@naver.com">email</a>
+  <a href="https://github.com/devcomment/stella-desk-releases/releases/latest">download</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/devcomment?tab=repositories">repositories</a>
-  <br /><br /><br />
-  <samp>☾ &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆</samp>
+  <a href="https://github.com/devcomment/stella-desk-releases">project</a>
+  <br /><br />
+  <samp>✦</samp>
 </div>
