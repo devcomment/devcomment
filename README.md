@@ -1,49 +1,31 @@
 <div align="center">
-  <img src="./assets/stella-header.svg" alt="Stella Desk · by devcomment — 메리와 히요리의 방송, 한곳에서." width="100%" />
+  <img src="./assets/gold-banner.jpg" alt="devcomment — champagne gold liquid glass" width="100%" />
   <br /><br />
-  <samp>building a little home for live moments</samp>
+  작은 취향을 모아, 좋아하는 것을 만듭니다.
   <br /><br />
 </div>
 
-### ✦ &nbsp; Stella Desk
+### Stack
 
-방송과 채팅, 클립·다시보기, 소식을 한곳에 모으는 **Windows 데스크톱 앱**을 만들고 있습니다.
-
-토키노 메리와 하나요 히요리를 위한 비공식 뷰어입니다.
-
-<p>
-  <a href="https://github.com/devcomment/stella-desk-releases">프로젝트 보기 ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/devcomment/stella-desk-releases/releases/latest">최신 버전 다운로드 ↗</a>
+<p align="center">
+  <img src="./assets/gold-javascript.svg" alt="JavaScript" width="155" />
+  <img src="./assets/gold-electron.svg" alt="Electron" width="155" />
+  <img src="./assets/gold-node.svg" alt="Node.js" width="155" />
+  <br />
+  <img src="./assets/gold-web.svg" alt="HTML · CSS" width="155" />
+  <img src="./assets/gold-java.svg" alt="Java" width="155" />
+  <img src="./assets/gold-spring.svg" alt="Spring Boot" width="155" />
 </p>
 
 <br />
 
-### ✦ &nbsp; Stack
+### Projects
 
-<p>
-  <img src="./assets/stack-electron.svg" alt="Electron" width="132" />
-  <img src="./assets/stack-javascript.svg" alt="JavaScript" width="132" />
-  <img src="./assets/stack-node.svg" alt="Node.js" width="132" />
-  <img src="./assets/stack-html.svg" alt="HTML5" width="132" />
-  <img src="./assets/stack-css.svg" alt="CSS3" width="132" />
+<p align="center">
+  <a href="https://github.com/devcomment/stella-desk-releases"><img src="./assets/gold-stella.svg" alt="Stella Desk — 진행 중인 Windows 방송·채팅 뷰어. Electron · JavaScript · Node.js" width="48%" /></a>
+  <a href="https://github.com/devcomment/expense-tracker-api"><img src="./assets/gold-expense.svg" alt="Expense Tracker API — Java · Spring Boot로 만든 수입·지출 기록 API 학습 프로젝트" width="48%" /></a>
 </p>
 
-| 영역 | 사용 기술 |
-| :--- | :--- |
-| 데스크톱 앱 | Electron · Node.js |
-| 화면과 인터랙션 | JavaScript · HTML · CSS |
-| 빌드·배포·업데이트 | electron-builder · esbuild · electron-updater |
-| 라이브러리 | Cheerio · LiquidGlass (Beta) |
-
-<br />
-
-<div align="center">
-  <samp>devcomment · Stella Desk</samp>
-  <br /><br />
-  <a href="https://github.com/devcomment/stella-desk-releases/releases/latest">download</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/devcomment/stella-desk-releases">project</a>
-  <br /><br />
-  <samp>✦</samp>
-</div>
+<p align="center">
+  <a href="https://github.com/devcomment?tab=repositories">모든 프로젝트 보기 ↗</a>
+</p>
